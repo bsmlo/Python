@@ -1,0 +1,2 @@
+That's the program created to deal with Linkam Temperture Controller (RS232) and NIS (cammera capture controller) at the same time.
+Program displays plot of the measured temperature and create log file from run.
